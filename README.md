@@ -1,1 +1,3 @@
 #PROJE BAŞLIGI
+#2. BAŞLIK 
+#SUDO SU
